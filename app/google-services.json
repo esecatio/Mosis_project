@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "948603759462",
+    "firebase_url": "https://mosis-fb5ed-default-rtdb.firebaseio.com",
+    "project_id": "mosis-fb5ed",
+    "storage_bucket": "mosis-fb5ed.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:948603759462:android:95e5c96311384c2a3cf6a7",
+        "android_client_info": {
+          "package_name": "com.example.mosis"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "948603759462-fe8i36duo7hojts9sq4edgqdou2445o6.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB-srrFhdngwDtZZHi7Xb6oRQoJcVXvciM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "948603759462-fe8i36duo7hojts9sq4edgqdou2445o6.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
